@@ -1,6 +1,6 @@
 # credit-card-defaulter
-# problem statement: Problem Statement To build a classification methodology to determine whether 
-#  a person defaults the credit card payment for the next month.
+# problem statement: 
+  To build a classification methodology to determine whether a person defaults the credit card payment for the next month.
 
 # data
 The data contains 32561 instances with the following attributes:
